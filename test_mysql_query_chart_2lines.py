@@ -1,3 +1,6 @@
+#created by Jess Valdez
+#sometime in march 2016
+
 import datetime
 import mysql.connector
 from mysql.connector import errorcode
